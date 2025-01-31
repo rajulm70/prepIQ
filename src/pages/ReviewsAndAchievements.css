@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno:ital@0;1&display=swap');
+body {
+    font-family: 'MuseoModerno', sans-serif !important;
+    background: url('https://res.cloudinary.com/dgyutx64b/image/upload/v1738229744/vecteezy_abstract-luxury-shiny-dark-blue-background-with-lines-golden-glowing__ee5apq.jpg') no-repeat center center fixed;
+    background-size: cover;
+  }
+  
+/* body {
+    font-family: 'Arial', sans-serif;
+  } */
+  
+  .bg-gradient-to-br {
+    background: linear-gradient(to bottom right, rgba(125, 93, 80, 0.7), rgba(40, 40, 50, 0.7));
+
+  }
+  
+  h2 {
+    color: white;
+  }
+  
+  p {
+    color: white;
+  }
+  
+  .text-gray-700 {
+    color: #4A4A4A;
+  }
+  
+  .text-gray-600 {
+    color: #757575;
+  }
+  
